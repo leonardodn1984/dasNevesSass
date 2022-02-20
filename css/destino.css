@@ -28,6 +28,10 @@ article {
   padding: 10px;
 }
 
+a {
+  text-decoration: none;
+}
+
 @font-face {
   font-family: "Nunito-Light";
   src: url("Nunito/Nunito-Light.ttf");
