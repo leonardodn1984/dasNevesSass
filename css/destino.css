@@ -116,6 +116,10 @@ a:hover {
   margin-bottom: 10px;
 }
 
+.seccionActual {
+  color: #ddb976;
+}
+
 header {
   grid-area: header;
   background-color: black;
