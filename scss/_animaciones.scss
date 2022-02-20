@@ -1,0 +1,18 @@
+@keyframes aside {
+    0% {
+        transform: translate(0);
+    }
+    50% {
+        transform: translateY(15px);
+    }
+    100% {
+        transform: translate(0);
+    }
+}
+a:hover {
+    color: rgb(221, 185, 118);
+}
+::selection {
+    color: white;
+    background-color: rgb(221, 185, 118);
+}

@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    grid-area: footer;
+    background-color: black;
+    margin-top: 10px;
+    justify-content: center;
+}
+nav {
+    ul {
+        display: flex;
+        justify-content: center;
+    }
+}
+.extraArt {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+.historiaFlex {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-self: center;
+    width: 100%;
+}

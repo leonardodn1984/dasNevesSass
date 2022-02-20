@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    height: 100vh;
+}
+div {
+    margin: 50px 5px;
+}
+ul {
+    li{
+        display: inline-block;
+        padding: 14px;
+        color: white;
+        list-style-type: none;
+        text-align: center;
+    }
+}
+article {
+    margin: 5px;
+    text-align: center;
+    font-size: 0.75rem;
+    padding: 10px;
+}
