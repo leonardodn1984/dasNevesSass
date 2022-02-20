@@ -47,10 +47,6 @@ a {
   color: white;
 }
 
-aside div h2 {
-  font-size: 80%;
-}
-
 footer {
   display: flex;
   grid-area: footer;
